@@ -1,0 +1,19 @@
+{
+  "name": "mio-sever",
+  "version": "1.0.0",
+  "description": "A simple server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "osc": "^2.4.0",
+    "ws": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/mio-server"
+  }
+}
